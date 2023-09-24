@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.divs{
+.holder{
 	display:flex;
 	justify-content:center;
 	flex-wrap:wrap;
 }
-#holder{
+#items{
 	width:80px;
 	height:80px;
 	background-color:green;
