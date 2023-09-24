@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.divs{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+#holder{
+	width:80px;
+	height:80px;
+	background-color:green;
+}
